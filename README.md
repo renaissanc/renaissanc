@@ -1,4 +1,4 @@
-- 👋 Hi, I’m renaissance
+- 👋 Hi, I AM!
 - 👀 “Any sufficiently advanced technology is indistinguishable from magic” -Arthur C. Clarke
 - 🌱 I’m currently learning ML
 - 📫 you can reach me by sending me a mail at murtaza.ml.lakhani@gmail.com
